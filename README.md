@@ -6,5 +6,5 @@ Dentro del repositorio deberá colocar todos los archivos, ejemplos y ejercicios
 
 Sera le prueba de que realizo el curso.
 
-Enlace del primer curso:
+Enlace del segundo curso:
 [enlace del curso 02](https://drive.google.com/drive/folders/1MabyBXlEkBEM--asfxrHvSyQW7LxXCAB?usp=sharing)
